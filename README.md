@@ -12,7 +12,7 @@ So far here is what is in this mod:
 - [x] A friendly wolf named "Joe"
 - [ ] Included chocolate milk
 
-
+### You can learn more on the [wiki](https://ngspace.github.io/hudder/developers.html)
 
 # How to Run, Compile and Add Hudder as a gradle dependency
 
