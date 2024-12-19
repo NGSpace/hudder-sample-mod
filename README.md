@@ -1,3 +1,6 @@
+#outdated, don't use for newer versions.
+
+
 ### This is a sample extension mod for hudder to help you start writing your own hudder compiler
 
 So far here is what is in this mod:
